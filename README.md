@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @eslamakram
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi all, My name is Eslam Tweikat , I'm a computer engineer. I'm so excited to get a useful training course and immerse myself in developing environment in an efficient way with powerful instructors in ASAC..                                                My GitHub : https://eslamakram.github.io/eslamakram/ (edited) 
 
-<!---
-eslamakram/eslamakram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+eslamakram.github.io
+eslamakram
+Config files for my GitHub profile.
